@@ -7,7 +7,7 @@
     "start": "babel-node index.js"
   },
   "dependencies": {
-    "graphql-shield": "2.0.4",
+    "graphql-shield": "6.0.6",
     "graphql-yoga": "1.14.4"
   },
   "devDependencies": {
